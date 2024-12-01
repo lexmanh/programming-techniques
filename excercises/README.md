@@ -72,3 +72,6 @@ Chức năng:
 	5.	Tính tổng doanh thu của khách sạn: Dùng con trỏ để tính tổng.
 	6.	Lưu danh sách khách vào tập tin: Ghi dữ liệu vào file văn bản.
 	7.	Đọc danh sách khách từ tập tin: Đọc và hiển thị dữ liệu từ file.
+
+ ## Link nộp bài: 
+https://drive.google.com/drive/folders/1Im-G33iY-4vYfyV-7eQYUpULfhEL1bqq
